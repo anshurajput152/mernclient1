@@ -24,7 +24,7 @@
 }
 
 .userTable table thead th{
-    background-color: blue;
+    background-color: rgb(255, 0, 157);
     color: white;
     padding: 10px;
 }
